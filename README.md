@@ -2,9 +2,9 @@
 
 ARKADAŞLAR,
 
-"Birlikte Öğrenelim" adında bir program yapalım istiyorum. Benim önereceğim veya sizden gelecek bir kaç fikir için çalışma grupları oluşturalım. 1-2-3 kişilik mesela. Ödev gibi düşünün. Araştırıp dönüş yapacağız. Sonra, sonuçları birlikte değerlendireceğiz.
+"Birlikte Öğrenelim" adında bir program yapalım istiyorum. Benim önereceğim veya sizden gelecek fikirler için çalışma grupları oluşturalım. Tek kişilik veya 2+ kişilik gruplar mesela. Ödev gibi düşünün. Araştırıp dönüş yapacağız. Sonra, sonuçları birlikte değerlendireceğiz ve yayınlayacağız.
 
-Bu şekilde çalışmak isteyenleri beklerim.
+Bu şekilde çalışmak isteyenleri ve önerisi olanları beklerim.
 
 ## Örnek Konular
 - Google Analitik ile site ziyaretçi istatisk analizleri
