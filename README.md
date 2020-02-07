@@ -10,7 +10,7 @@ Bir konuyu seçin ve çalışmaya başlayın! Dersinizin proje ödevi gibi düş
 
 ## Çalışacağım Konuyu Nasıl Seçmeliyim?
 
-En çok merak ettiğiniz ve öğrenmek istediğiniz başlığı seçin! Yalnız olmayacaksınız. Birlite çalışacağız...
+En çok merak ettiğiniz ve öğrenmek istediğiniz başlığı seçin! Yalnız olmayacaksınız. Birlikte çalışacağız...
 
 ## Örnek Konular
 - Google Analitik ile site ziyaretçi istatisk analizleri
@@ -104,13 +104,17 @@ En çok merak ettiğiniz ve öğrenmek istediğiniz başlığı seçin! Yalnız 
 - RESTAPI nedir? Nasıl kullanılır?
 - PHP ile SMS gönderme
 - PHP ile telefon çağrısı yapma
+- Web temelli harita servisi seçenekleri: Open Street Map (OSM), Google Maps, Yandex Maps vb
 - Web temelli Harita uygulaması ile rota çizme, durak tanımlama, aktif konumu kullanma
+- Web temelli Harita üzerinde firma konumu gösterme
 - Arvento araç takip sisteminden veri alma ve kullanma
 - NAT Nedir? Modemimize nasıl NAT yaparız?
 - Sosyal Medya Uzmanlığı/Danışmanlığı
 - Firma/Kurum Twitter hesabı yönetimi
 - Firma/Kurum Instagram hesabı yönetimi
-
+- Çocuklar için kodlama eğitimi
+- Scratch ile kodlama
+- code.org sitesi ile kodlama
 
 
 
