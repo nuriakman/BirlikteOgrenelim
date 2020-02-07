@@ -103,6 +103,9 @@ Bir konuyu seçin ve çalışmaya başlayın! Dersinizin proje ödevi gibi düş
 - Web temelli Harita uygulaması ile rota çizme, durak tanımlama, aktif konumu kullanma
 - Arvento araç takip sisteminden veri alma ve kullanma
 - NAT Nedir? Modemimize nasıl NAT yaparız?
+- Sosyal Medya Uzmanlığı/Danışmanlığı
+- Firma/Kurum Twitter hesabı yönetimi
+- Firma/Kurum Instagram hesabı yönetimi
 
 
 
