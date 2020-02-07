@@ -8,6 +8,10 @@ Bu şekilde çalışmak isteyenleri ve önerisi olanları beklerim.
 
 Bir konuyu seçin ve çalışmaya başlayın! Dersinizin proje ödevi gibi düşünün. Bir farkla: Amacımız geçer not almak değil. Amacımız Öğrenmek. Önce seçtiğimiz konuyu biz öğreneceğiz, sonra başkalarının da faydalanabilmesi için öğrendiklerimizi kayıt altına alıp bu proje dahilinde yayınlayacağız.
 
+## Çalışacağım Konuyu Nasıl Seçmeliyim?
+
+En çok merak ettiğiniz ve öğrenmek istediğiniz başlığı seçin! Yalnız olmayacaksınız. Birlite çalışacağız...
+
 ## Örnek Konular
 - Google Analitik ile site ziyaretçi istatisk analizleri
 - Yandex Metrica ile  site ziyaretçi istatisk analizleri
