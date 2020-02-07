@@ -1,10 +1,12 @@
 # Birlikte Öğrenelim
 
-ARKADAŞLAR,
-
 "Birlikte Öğrenelim" adında bir program yapalım istiyorum. Benim önereceğim veya sizden gelecek fikirler için çalışma grupları oluşturalım. Tek kişilik veya 2+ kişilik gruplar mesela. Ödev gibi düşünün. Araştırıp dönüş yapacağız. Sonra, sonuçları birlikte değerlendireceğiz ve yayınlayacağız.
 
 Bu şekilde çalışmak isteyenleri ve önerisi olanları beklerim.
+
+## Nasıl Katılabilirim?
+
+Bir konuyu seçin ve çalışmaya başlayın! Dersinizin proje ödevi gibi düşünün. Bir farkla: Amacımız geçer not almak değil. Amacımız Öğrenmek. Önce seçtiğimiz konuyu biz öğreneceğiz, sonra başkalarının da faydalanabilmesi için öğrendiklerimizi kayıt altına alıp bu proje dahilinde yayınlayacağız.
 
 ## Örnek Konular
 - Google Analitik ile site ziyaretçi istatisk analizleri
