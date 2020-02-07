@@ -94,6 +94,12 @@ Bu şekilde çalışmak isteyenleri beklerim.
 - CSS Grid Layout Modülü
 - CSS Flexbox Modülü
 - GIMP ile temel resim işleme işlevleri
+- API nedir? Nasıl kullanılır?
+- RESTAPI nedir? Nasıl kullanılır?
+- PHP ile SMS gönderme
+- PHP ile telefon çağrısı yapma
+- Web temelli Harita uygulaması ile rota çizme, durak tanımlama, aktif konumu kullanma
+- Arvento araç takip sisteminden veri alma ve kullanma
 
 
 
