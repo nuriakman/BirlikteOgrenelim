@@ -100,7 +100,7 @@ Bu şekilde çalışmak isteyenleri ve önerisi olanları beklerim.
 - PHP ile telefon çağrısı yapma
 - Web temelli Harita uygulaması ile rota çizme, durak tanımlama, aktif konumu kullanma
 - Arvento araç takip sisteminden veri alma ve kullanma
-
+- NAT Nedir? Modemimize nasıl NAT yaparız?
 
 
 
