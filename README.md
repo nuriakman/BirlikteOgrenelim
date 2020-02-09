@@ -136,4 +136,10 @@ En çok merak ettiğiniz ve öğrenmek istediğiniz başlığı seçin! Yalnız 
 - Kendi VPN sunucunuzu kurun
 - Web fontları kullanma ve istediğiniz fontu webfont haline getirme
 - Web Sitesi Şablonları
-
+- Özgür Yazılım Felsefesi
+- Açık Kaynak Kodlu Yazılım Felsefesi
+- Özgür Yazılım Lisansları
+  - http://ozgurlisanslar.org.tr/
+- Özgür Yazılım Kazanç Modelleri
+  - https://qastack.info.tr/software/32956/what-are-the-common-revenue-models-for-free-software-companies
+  - https://roadmap.sh/sponsors
