@@ -47,6 +47,12 @@ En çok merak ettiğiniz ve öğrenmek istediğiniz başlığı seçin! Yalnız 
 - Kendi LAMP sunucumuzu kuralım
 - DigitalOcean vb sitelerde sunucu kurma temelleri
 - Alan adı alma ve yayına hazırlama adımları
+- Frontend Yol Haritası
+  - https://roadmap.sh/frontend
+- Backend Yol Haritası
+  - https://roadmap.sh/backend
+- DevOps Yol Haritası
+  - https://roadmap.sh/devops
 - Detaylarıyla DNS
   - https://roadmap.sh/guides/dns-in-one-picture
 - Detaylarıyla HTTP Yaşam Döngüsü
