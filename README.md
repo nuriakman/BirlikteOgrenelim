@@ -2,19 +2,24 @@
 
 "Birlikte Öğrenelim" adında bir program yapalım istiyorum. Benim önereceğim veya sizden gelecek fikirler için çalışma grupları oluşturalım. Tek kişilik veya 2+ kişilik gruplar mesela. Ödev gibi düşünün. Araştırıp dönüş yapacağız. Sonra, sonuçları birlikte değerlendireceğiz ve yayınlayacağız.
 
+Dersinizin proje ödevi gibi düşünün. Bir farkla: **Amacımız geçer not almak değil, öğrenmek**. Önce seçtiğimiz konuyu biz öğreneceğiz, sonra başkalarının da faydalanabilmesi için öğrendiklerimizi kayıt altına alıp bu proje dahilinde yayınlayacağız.
+
+Tüm bu süreçlerde [Discord](https://discordapp.com/) ve [GitHub](https://github.com/)'ı çokça kullanacağız.
+
 Bu şekilde çalışmak isteyenleri ve önerisi olanları beklerim: [nuriakman@gmail.com](nuriakman@gmail.com)
 
 ## Nasıl Katılabilirim?
 
-Bir konuyu seçin ve çalışmaya başlayın! Dersinizin proje ödevi gibi düşünün. Bir farkla: Amacımız geçer not almak değil. Amacımız Öğrenmek. Önce seçtiğimiz konuyu biz öğreneceğiz, sonra başkalarının da faydalanabilmesi için öğrendiklerimizi kayıt altına alıp bu proje dahilinde yayınlayacağız.
+Bir konuyu seçin ve çalışmaya başlayın! 
+`Nasıl çalışmam lazım? Nereden başlamalı? Bana bir rehber lazım!` derseniz [nuriakman@gmail.com](nuriakman@gmail.com) adresimden benimle iletişime geçebilirsiniz.
 
 ## Çalışacağım Konuyu Nasıl Seçmeliyim?
 
 En çok merak ettiğiniz ve öğrenmek istediğiniz başlığı seçin! Yalnız olmayacaksınız. Birlikte çalışacağız...
 
 ## Örnek Konular
-- Google Analitik ile site ziyaretçi istatisk analizleri
-- Yandex Metrica ile  site ziyaretçi istatisk analizleri
+- Google Analitik ile site ziyaretçi istatistik analizleri
+- Yandex Metrica ile site ziyaretçi istatistik analizleri
 - Google'da reklam verme
 - Yandex'de reklam verme
 - SEO dostu site yapımı
@@ -25,15 +30,15 @@ En çok merak ettiğiniz ve öğrenmek istediğiniz başlığı seçin! Yalnız 
 - JS kütüphanelri kullanarak basit grafik unsurlarla (bar, donut, line, dot vb) grafik üretme
 - PDF Dosya içeriği ile oynama: Sayfa yönü çevirme, dosya bölme, boş sayfa ekleme, araya/sonuna dosya ekleme vb.
 - Laravel öğrenme
-- Veritabanı Temelleri
+- Veri tabanı Temelleri
 - GİT ve birlikte çalışabilirlik
 - Markdown öğrenelim
-- Tecrüblerimiz ışığında Kış Kampı ders notları ve ders sunumu
-- Tecrüblerimiz ışığında Yaz Kampı ders notları ve ders sunumu
+- Tecrübelerimiz ışığında Kış Kampı ders notları ve ders sunumu
+- Tecrübelerimiz ışığında Yaz Kampı ders notları ve ders sunumu
 - JS ile sunum hazırlama (powerpoint gibi)
 - Ubuntu'da ilk 3 gün (Ubuntu kullanmaya başlama ve temel masaüstü eğitimi)
 - Linux komut satırı kullanımı ve örnek projelerle Linux komutları kullanımı
-- Windows alışkanlıkları ve linuxdaki karşılıkları
+- Windows alışkanlıkları ve Linux'daki karşılıkları
 - Linux'a geçemem, çünkü... konusunda yanlış bildiklerimiz
 - Kendi LAMP sunucumuzu kuralım
 - DigitalOcean vb sitelerde sunucu kurma temelleri
@@ -43,9 +48,9 @@ En çok merak ettiğiniz ve öğrenmek istediğiniz başlığı seçin! Yalnız 
 - Kurallı İfadeler / Regular Expressions
 - Site hüpletme, verileri derleyip toparlama ve veritabanına basma
 - LOG nedir, ne işe yarar, nasıl incelenir, nasıl analiz edilir, şüpheli kayıtlar için haber verme mekanizması
-- POP3 ve IMAP nedir? Ücretsiz kendi mail sistemimizi kurma
-- Google, Yandex veya size ait SMTP sunucusu üzerinden PHP ile email gönderme
-- Bir çok web sitesini tek sunucuda barındırma ve işletme
+- POP3 ve IMAP nedir? Ücretsiz kendi e-posta sistemimizi kurma
+- Google, Yandex veya size ait SMTP sunucusu üzerinden PHP ile e-posta gönderme
+- Birçok web sitesini tek sunucuda barındırma ve işletme
 - Sublime kullanımı
 - Atom Kullanımı
 - Visual Studio Code kullanımı
@@ -54,10 +59,10 @@ En çok merak ettiğiniz ve öğrenmek istediğiniz başlığı seçin! Yalnız 
 - Navicat MySQL yönetim aracı kullanımı
 - MySQL aynalama (mirror), Master-Slave ve Master-Master replication
 - Linux dosya yedekleme ve geri dönüş
-- Linux veritabanı yedekleme ve geri dönüş
+- Linux veri tabanı yedekleme ve geri dönüş
 - Composer kullanımı ve PHP kütüphanesi seçimi
 - PHP ile OOP (nesne yönelimli programlama)
-- Veritabanı olarak Text dosya kullanımı
+- Veri tabanı olarak Text dosya kullanımı
 - SQLite nedir? Nasıl kullanılır?
 - REDIS nedir? Nasıl kullanılır?
 - Memcached nedir? Nasıl kullanılır?
@@ -71,11 +76,11 @@ En çok merak ettiğiniz ve öğrenmek istediğiniz başlığı seçin! Yalnız 
 - VUE nedir? Nasıl başlanır?
 - JSON kullanım temelleri
 - XML kullanım temelleri
-- 2D ve 3D barkod karekod nedir? Çeşitleri? nasıl kullanılır?
+- 2D ve 3D barkod Karekod nedir? Çeşitleri? Nasıl kullanılır?
 - PHP ile dinamik olarak PDF üretme
 - Firefox tarayıcı ve faydalı eklentileri
-- UI nedir? nelere dikkat edilmeli?
-- UX nedir? nelere dikkat edilmeli?
+- UI nedir? Nelere dikkat edilmeli?
+- UX nedir? Nelere dikkat edilmeli?
 - Bootstrap ile çalışmaya başlama
 - MD Bootstrap ile çalışmaya başlama
 - BULMA ile çalışmaya başlama
@@ -83,7 +88,7 @@ En çok merak ettiğiniz ve öğrenmek istediğiniz başlığı seçin! Yalnız 
 - PHP'de DİZİLER ve sık kullanılan dizi fonksiyonları
 - Character Encoding nedir? ASCII, UTF8, UTF16
 - Resim dosyaları ile toplam işlemler: Tür değiştirme, yeniden boyutlandırma, resim yönü çevirme, filigran/watermark ekleme
-- MySQL'de yavaş çalışan sorların tespiti, analizi ve optimize edilmesi
+- MySQL'de yavaş çalışan sorguların tespiti, analizi ve optimize edilmesi
 - OBS Studio ile ekran kaydı alma ve ince ayarlar
 - Raspberry Pi nedir?
 - BBC:Microbit nedir?
@@ -93,7 +98,7 @@ En çok merak ettiğiniz ve öğrenmek istediğiniz başlığı seçin! Yalnız 
 - MySQL_ komutlarını kullanan PHP projelerinin PHP7 de çalıştırılması
 - PHP'de ziyaretçi sayma, sayfa gösterimi sayma, anlık kullanıcı sayısı hesaplama
 - jQuery temelleri ve seçiciler ile kullanımı
-- Temel Ağ Bilgisi ve nasıl newtwork kurarız?
+- Temel Ağ Bilgisi ve nasıl network kurarız?
 - Linux'da dosya yetkileri ve kullanıcılar
 - Linux'da dosya arama: Büyük dosyalar, eski dosyalar, yeni dosyalar, yeni güncellenen dosyalar vb.
 - Linux Parallel komutu ile bilgisayarı gerçek anlamda kullanma
@@ -117,14 +122,5 @@ En çok merak ettiğiniz ve öğrenmek istediğiniz başlığı seçin! Yalnız 
 - Scratch ile kodlama
 - code.org sitesi ile kodlama
 - Kendi VPN sunucunuzu kurun
-- Web fontları kullanma ve istediğiniz fontu webfont halişne getirme
+- Web fontları kullanma ve istediğiniz fontu webfont haline getirme
 - Web Sitesi Şablonları
-
-
-
-
-
-
-
-
-
