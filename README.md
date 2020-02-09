@@ -94,6 +94,7 @@ En çok merak ettiğiniz ve öğrenmek istediğiniz başlığı seçin! Yalnız 
 - Resim dosyaları ile toplam işlemler: Tür değiştirme, yeniden boyutlandırma, resim yönü çevirme, filigran/watermark ekleme
 - MySQL'de yavaş çalışan sorguların tespiti, analizi ve optimize edilmesi
 - OBS Studio ile ekran kaydı alma ve ince ayarlar
+- YouTube sitesinde kanal açma ve video yükleme
 - Raspberry Pi nedir?
 - BBC:Microbit nedir?
 - Çift dosyaların bulunması ve temizliği
@@ -128,3 +129,4 @@ En çok merak ettiğiniz ve öğrenmek istediğiniz başlığı seçin! Yalnız 
 - Kendi VPN sunucunuzu kurun
 - Web fontları kullanma ve istediğiniz fontu webfont haline getirme
 - Web Sitesi Şablonları
+
