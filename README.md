@@ -2,7 +2,7 @@
 
 "Birlikte Öğrenelim" adında bir program yapalım istiyorum. Benim önereceğim veya sizden gelecek fikirler için çalışma grupları oluşturalım. Tek kişilik veya 2+ kişilik gruplar mesela. Ödev gibi düşünün. Araştırıp dönüş yapacağız. Sonra, sonuçları birlikte değerlendireceğiz ve yayınlayacağız.
 
-Bu şekilde çalışmak isteyenleri ve önerisi olanları beklerim.
+Bu şekilde çalışmak isteyenleri ve önerisi olanları beklerim: [nuriakman@gmail.com](nuriakman@gmail.com)
 
 ## Nasıl Katılabilirim?
 
