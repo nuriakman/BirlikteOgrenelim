@@ -48,6 +48,7 @@ En çok merak ettiğiniz ve öğrenmek istediğiniz başlığı seçin! Yalnız 
 - DigitalOcean vb sitelerde sunucu kurma temelleri
 - Alan adı alma ve yayına hazırlama adımları
 - Detaylarıyla DNS
+  - https://roadmap.sh/guides/dns-in-one-picture
 - Detaylarıyla HTTP Yaşam Döngüsü
 - Kurallı İfadeler / Regular Expressions
 - Site hüpletme, verileri derleyip toparlama ve veritabanına basma
