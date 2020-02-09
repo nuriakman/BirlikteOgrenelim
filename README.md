@@ -115,6 +115,9 @@ En çok merak ettiğiniz ve öğrenmek istediğiniz başlığı seçin! Yalnız 
 - Çocuklar için kodlama eğitimi
 - Scratch ile kodlama
 - code.org sitesi ile kodlama
+- Kendi VPN sunucunuzu kurun
+- Web fontları kullanma ve istediğiniz fontu webfont halişne getirme
+- Web Sitesi Şablonları
 
 
 
