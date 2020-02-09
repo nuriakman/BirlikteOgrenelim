@@ -19,7 +19,7 @@ En çok merak ettiğiniz ve öğrenmek istediğiniz başlığı seçin! Yalnız 
 
 ## Nasıl birlikte çalışabileceğiz?
 
-İlk olarak, (başlarken)[baslarken.md] sayfasındaki bilinmesi gereken konuları öğrenerek işe başlayabilirsiniz.
+İlk olarak, [başlarken](baslarken.md) sayfasındaki bilinmesi gereken konuları öğrenerek işe başlayabilirsiniz.
 
 ## Örnek Konular
 - Google Analitik ile site ziyaretçi istatistik analizleri
