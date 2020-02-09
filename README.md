@@ -80,8 +80,8 @@ En çok merak ettiğiniz ve öğrenmek istediğiniz başlığı seçin! Yalnız 
 - Crontab ile görevleri takvime bağlama
 - 10 dakikada vi editör kullanımı
 - 10 dakikada nano editör kullanımı
-- VirtualBox nedir? Nasıl kullanılır?
-- Vagrant nedir? Nasıl kullanılır?
+- VirtualBox nedir? Nasıl kullanılır? [osboxes](https://www.osboxes.org/), [turnkeylinux](https://www.turnkeylinux.org/)
+- Vagrant nedir? Nasıl kullanılır? [VagrantBoxes](https://app.vagrantup.com/boxes/search)
 - SSH nedir? Nasıl kullanılır?
 - RSYNC nedir? Nasıl kullanılır?
 - VUE nedir? Nasıl başlanır?
