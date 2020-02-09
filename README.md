@@ -44,6 +44,7 @@ En çok merak ettiğiniz ve öğrenmek istediğiniz başlığı seçin! Yalnız 
 - Site hüpletme, verileri derleyip toparlama ve veritabanına basma
 - LOG nedir, ne işe yarar, nasıl incelenir, nasıl analiz edilir, şüpheli kayıtlar için haber verme mekanizması
 - POP3 ve IMAP nedir? Ücretsiz kendi mail sistemimizi kurma
+- Google, Yandex veya size ait SMTP sunucusu üzerinden PHP ile email gönderme
 - Bir çok web sitesini tek sunucuda barındırma ve işletme
 - Sublime kullanımı
 - Atom Kullanımı
