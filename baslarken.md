@@ -22,9 +22,9 @@ Not yazarken mutlaka biçimlendirme ihtiyacı olacak. MarkDown bize bu imkanı s
 
 [Discord](https://discordapp.com/), grup üyeleri ile sesli görüşme ve ekran paylaşımı sağlamak için kullanacağımız temel bileşendir. Mutlaka çalışan bir mikrofonunuz olmalı. Yoksa, USB'den bilgisayara bağlanan bir mikrofon almanızı tavsiye ederiz.
 
-## OSM Studio
+## OBS Studio
 
-Öğrendiğiniz şeyleri videoya kaydedip paylaşmak isteyeceksiniz. İşte [OSM Studio](http://osmstudios.com/) bu için harika bir araç!
+Öğrendiğiniz şeyleri videoya kaydedip paylaşmak isteyeceksiniz. İşte [OBS Studio](https://obsproject.com) bu için harika bir araç!
 
 ## YouTube
 
