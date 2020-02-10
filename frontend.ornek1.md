@@ -2,8 +2,7 @@
 
 ## Görev: Günübirlik Tur Sitesi
 
-Bu çalışma projesinde amaç, bir turizm firması için günübirlik tur sitesi yapmaktır.
-
+Bu çalışma projesinde amaç, bir turizm firması için günübirlik tur sitesi yapmaktır. Firmanın yaptığı işin detayları şunlardır:
 - Firma, 10+ farklı konuma tur düzenlemektedir
 - Her konumun bir kapak fotoğrafı vardır
 - Her konum için açıklama vardır
@@ -14,10 +13,15 @@ Bu çalışma projesinde amaç, bir turizm firması için günübirlik tur sites
 - Proje Lideri belirlenecek
 - Lider, GitHub'da bir proje açılacak
 - Lider, Proje ekibindekileri "Contributor" olarak projeye ekleyecek
+- Lider, yapılamsı gerekn her işi projede oluşturacağı `yapilacak.isler.md` dosyasına yazacak
+- Eğer, yapılacak iş için kişi seçimi yapılmışsa yanına yazacak
+- Yapılacak işler `[ ]` ve tamamlanmış işler  `[x]` biçiminde işaretlenecek
+- Projenin amacı, projeye eklenen her bir özellik `README.md` dosyasına uygun şekilde sunulacak
 - Proje kapsamında kullanılacak Kapak Fotoğraları derlenecek ve "assets/kapak" dizini altına eklenecek
 - Fotogaleriler için 01, 02, 03 vb adlarda klasörler açılıp içine derlenen fotoğraflar eklenecek
 - Site için [Modern Bussines](https://startbootstrap.com/templates/modern-business/) adlı şablon kullanılacak
 - Şablon indirilip parçalanacak (include komutu)
+- Şablon parçalama dışında PHP kodu KULLANILMAYACAK! Proje tamamen STATİK SAYFALARDAN oluşacak
 - Tur için gidilecek yere ait bir YouTube videosu bulunup bu video tur detayları sayfasında gösterilecek
 - Hazırlanacak Sayfalar:
   - Ana sayfa
@@ -28,6 +32,7 @@ Bu çalışma projesinde amaç, bir turizm firması için günübirlik tur sites
   - Her tur için Tur Programı bilgileri olacak
   - Her tur için fotogaleri olacak
   - Gerek duyulan diğer sayfaları
+
 
 ## Dikkat Edilecekler
 - Herkes yapılacak iş bölümüne göre çalışacak
