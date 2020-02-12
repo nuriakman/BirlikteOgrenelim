@@ -119,6 +119,7 @@ En çok merak ettiğiniz ve öğrenmek istediğiniz başlığı seçin! Yalnız 
 - PHP'de Tarih işlemleri
 - CSS Grid Layout Modülü
 - CSS Flexbox Modülü
+- SASS ve SCSS nedir
 - GIMP ile temel resim işleme işlevleri
 - API nedir? Nasıl kullanılır?
 - RESTAPI nedir? Nasıl kullanılır?
