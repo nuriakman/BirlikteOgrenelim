@@ -1,5 +1,7 @@
 # Birlikte Öğrenelim
 
+> Öğrenip kendini geliştirmeye isteksizsen, kimse sana yardım edemez. <br>Öğrenmeye kararlıysan da kimse seni durduramaz!
+
 "Birlikte Öğrenelim" adında bir program yapalım istiyorum. Benim önereceğim veya sizden gelecek fikirler için çalışma grupları oluşturalım. Tek kişilik veya 2+ kişilik gruplar mesela. Ödev gibi düşünün. Araştırıp dönüş yapacağız. Sonra, sonuçları birlikte değerlendireceğiz ve yayınlayacağız.
 
 Dersinizin proje ödevi gibi düşünün. Bir farkla: **Amacımız geçer not almak değil, öğrenmek**. Önce seçtiğimiz konuyu biz öğreneceğiz, sonra başkalarının da faydalanabilmesi için öğrendiklerimizi kayıt altına alıp bu proje dahilinde yayınlayacağız.
