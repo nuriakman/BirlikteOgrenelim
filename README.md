@@ -119,6 +119,8 @@ En çok merak ettiğiniz ve öğrenmek istediğiniz başlığı seçin! Yalnız 
 - PHP'de Tarih işlemleri
 - CSS Grid Layout Modülü
 - CSS Flexbox Modülü
+- Cross Browser Testi
+- Tek Sayfa Uygulaması / A single-page application (SPA) 
 - GIMP ile temel resim işleme işlevleri
 - API nedir? Nasıl kullanılır?
 - RESTAPI nedir? Nasıl kullanılır?
