@@ -1,10 +1,12 @@
 # Birlikte Öğrenelim
 
-> Öğrenip kendini geliştirmeye isteksizsen, kimse sana yardım edemez. <br>Öğrenmeye kararlıysan da kimse seni durduramaz!
+> Öğrenmeye isteksizsen, kimse sana yardım edemez. <br>Öğrenmeye kararlıysan, kimse seni durduramaz!
 
 "Birlikte Öğrenelim" adında bir program yapalım istiyorum. Benim önereceğim veya sizden gelecek fikirler için çalışma grupları oluşturalım. Tek kişilik veya 2+ kişilik gruplar mesela. Ödev gibi düşünün. Araştırıp dönüş yapacağız. Sonra, sonuçları birlikte değerlendireceğiz ve yayınlayacağız.
 
 Dersinizin proje ödevi gibi düşünün. Bir farkla: **Amacımız geçer not almak değil, öğrenmek**. Önce seçtiğimiz konuyu biz öğreneceğiz, sonra başkalarının da faydalanabilmesi için öğrendiklerimizi kayıt altına alıp bu proje dahilinde yayınlayacağız.
+
+> Dinlersem: Unuturum<br>Görürsem: Hatırlarım<br>Yaparsam: Öğrenirim<br>Öğretirsem: USTA olurum !
 
 Tüm bu süreçlerde [Discord](https://discordapp.com/) ve [GitHub](https://github.com/)'ı çokça kullanacağız.
 
@@ -12,8 +14,7 @@ Bu şekilde çalışmak isteyenleri ve önerisi olanları beklerim: [nuriakman@g
 
 ## Nasıl Katılabilirim?
 
-Bir konuyu seçin ve çalışmaya başlayın! 
-`Nasıl çalışmam lazım? Nereden başlamalı? Bana bir rehber lazım!` derseniz [nuriakman@gmail.com](nuriakman@gmail.com) adresimden benimle iletişime geçebilirsiniz.
+Bir konuyu seçin ve çalışmaya başlayın! `Nasıl çalışmam lazım? Nereden başlamalı? Bana bir rehber lazım!` derseniz [nuriakman@gmail.com](nuriakman@gmail.com) adresimden benimle iletişime geçebilirsiniz.
 
 ## Çalışacağım Konuyu Nasıl Seçmeliyim?
 
@@ -120,6 +121,7 @@ En çok merak ettiğiniz ve öğrenmek istediğiniz başlığı seçin! Yalnız 
 - CSS Grid Layout Modülü
 - CSS Flexbox Modülü
 - SASS ve SCSS nedir
+- Tek Sayfa Web Uygulaması (SPA) 
 - GIMP ile temel resim işleme işlevleri
 - API nedir? Nasıl kullanılır?
 - RESTAPI nedir? Nasıl kullanılır?
