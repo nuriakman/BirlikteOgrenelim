@@ -47,3 +47,52 @@ Bu çalışma projesinde amaç, bir turizm firması için günübirlik tur sites
 - Sisteme eklenecek resim dosyalarının boyutu en çok 300Kb olacak
 - HTML kod geliştirilirken gereken her yere açıklamalar/yorum eklenecek
 
+
+# Süreç boyunca edinilecek kazanımlar
+## CSS
+**Küçük Resim Kullanımı** Detaylı bilgi: [css3 object fit](https://www.w3schools.com/css/css3_object-fit.asp)
+```html
+<style>
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}  
+</style>
+```
+
+**Bootstrap CARD nesnesi için sabit yükseklik verme**
+```HTMK
+<div class="card h-100">
+```
+
+## Toplu dosya boyutu değiştirme
+### Yöntem 1
+
+Aktif klasördeki dosyaları `yeni` adlı klasöre yeniden boyutlandırma
+
+```BASH
+mkdir yeni
+for i in *.jpg; do convert $i -resize 800x600 yeni/$i;done
+```
+### Yöntem 2
+Aktif klasördeki dosyaları yeniden boyutlandırma
+
+```BASH
+mogrify -resize 800x *.jpg
+find . -name '*.jpg' -execdir mogrify -resize 800x {} \;
+```
+
+### Yöntem 3
+Aktif klasör ve altındaki TÜM dosyaları yeniden boyutlandırma
+
+```BASH
+find . -name '*.jpg' -execdir mogrify -resize 800x {} \;
+```
+
+Resim oranlarının korunması hakkında: https://www.imagemagick.org/Usage/resize/#resize
+
+
+
+
+
