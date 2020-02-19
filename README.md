@@ -1,8 +1,27 @@
 # Birlikte Öğrenelim
+> Öğrenmek istemezsen, kimse sana yardım edemez. <br>Öğrenmeye kararlıysan, kimse seni durduramaz!
 
-> Öğrenmeye isteksizsen, kimse sana yardım edemez. <br>Öğrenmeye kararlıysan, kimse seni durduramaz!
 
-"Birlikte Öğrenelim" adında bir program yapalım istiyorum. Benim önereceğim veya sizden gelecek fikirler için çalışma grupları oluşturalım. Tek kişilik veya 2+ kişilik gruplar mesela. Ödev gibi düşünün. Araştırıp dönüş yapacağız. Sonra, sonuçları birlikte değerlendireceğiz ve yayınlayacağız.
+## Amacımız
+Yazılım dünyasında kendini yetiştirmeye çalışan herkese, bildiğimiz konularda rehberlik hizmeti sunarak onların öğrenme ve pratik yapma süreçlerine katkı sağlamayı amaçlıyoruz.
+
+
+## Hedef Kitlemiz
+- Kendini geliştirmek isteyenler
+- Bilgisini artırmak isteyenler
+- Bildiklerini paylaşmak isteyenler
+
+
+## İletişim Nasıl Sağlanacak?
+İletişim için, WhatsApp benzeri bir *anlık iletişim* uygulaması olan Telegram'ı kullanacağız. Bu uygulamada oluşturulan gruba giriş yaptığınız takdirde, sizin gibi öğrenme ve öğretme isteği olan diğer insanlarla anlık iletişime geçebilecek, sorularınıza cevap alabileceksiniz.
+
+
+## Öğrenme ve Rehberlik Nasıl Olacak?
+Öncelikle, aşağıdaki konulardan bir tanesini seçmenizi bekliyoruz. Eğer seçim yapamıyorsanız, Telegram grubumuzdan kuracağınız iletişim ile size uygun bir konu belirlemede size yardımcı olabiliriz.
+
+Ardından, sizinle aynı konuya ilgi duyan bir kaç kişiyi daha bir araya getirerek bir çalışma grubu kuracağız. Birlikte yapacağımız Öğrenme sürecinde hangi adımlar gerektiğini belirleyip eğitim için bir yol haritası çıkaracağız.
+
+Grup üyeleri birlikte veya bağımsız olarak yol haritasındaki adımları öğrenmeye ve uygulamaya çalışacak. Takıldığınız yerlerde destek sunacağız. Birlikte proje ödevi hazırlamak gibi düşünebilirsiniz. Sonuçları hep birlikte değerlendireceğiz ve yayınlayacağız.
 
 Dersinizin proje ödevi gibi düşünün. Bir farkla: **Amacımız geçer not almak değil, öğrenmek**. Önce seçtiğimiz konuyu biz öğreneceğiz, sonra başkalarının da faydalanabilmesi için öğrendiklerimizi kayıt altına alıp bu proje dahilinde yayınlayacağız.
 
@@ -10,19 +29,26 @@ Dersinizin proje ödevi gibi düşünün. Bir farkla: **Amacımız geçer not al
 
 Tüm bu süreçlerde [Discord](https://discordapp.com/) ve [GitHub](https://github.com/)'ı çokça kullanacağız.
 
-Bu şekilde çalışmak isteyenleri ve önerisi olanları beklerim: [nuriakman@gmail.com](nuriakman@gmail.com)
 
 ## Nasıl Katılabilirim?
+Telegram Grubumuza dahil olun ve ***canlı*** iletişimimiz başlasın. Birlikte ne yapabileceğimizi konuşalım ve çalışmaya başlayalım.
 
-Bir konuyu seçin ve çalışmaya başlayın! `Nasıl çalışmam lazım? Nereden başlamalı? Bana bir rehber lazım!` derseniz [nuriakman@gmail.com](nuriakman@gmail.com) adresimden benimle iletişime geçebilirsiniz.
+
+## Telegram Nedir?
+Telegram, çok hız, gizliklik odaklı, basit ve ücretsiz bir mesajlaşma uygulamasıdır. Telegram'ı telefon, tablet veya bilgisayarınızdan eş zamanlı olarak kullanabilirsiniz. Telegram sayesinde fotoğraf, video ve her türden dosyayı (doc, zip, mp3, vb) gönderip alabilir, sesli görüşme yapabilirsiniz!
+
+
+## Telegram Grubumuza Dahil Olun
+Telegram grubumuza dahil olmak için şu linki kullanabilirsiniz: https://t.me/joinchat/GM7pmBNQ4txIFx_ySF1pYg
+
 
 ## Çalışacağım Konuyu Nasıl Seçmeliyim?
-
 En çok merak ettiğiniz ve öğrenmek istediğiniz başlığı seçin! Yalnız olmayacaksınız. Birlikte çalışacağız...
 
-## Nasıl birlikte çalışabileceğiz?
 
+## Nasıl birlikte çalışabileceğiz?
 İlk olarak, [başlarken](baslarken.md) sayfasındaki bilinmesi gereken konuları öğrenerek işe başlayabilirsiniz.
+
 
 ## Örnek Konular
 - Google Analitik ile site ziyaretçi istatistik analizleri
